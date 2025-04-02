@@ -42,6 +42,7 @@ I'm always open to connecting with fellow developers and creators!
 * <a href="https://www.linkedin.com/in/abhirup-chakraborty-7587131a2/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a> LinkedIn
 * <a href="https://x.com/kongX404" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" alt="X (Twitter)"/></a> X (Twitter)
 * 📧 Gmail: `oprime041@gmail.com`
+* 🕹️ Itch.io: `https://spyder-x-games.itch.io/`
 
 ---
 
