@@ -1,12 +1,5 @@
 # 👋 Hey there! I'm Abhirup Chakraborty (SpyderX) ✨
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[Optional: URL to a cool dark-mode banner image]">
-  <source media="(prefers-color-scheme: light)" srcset="[Optional: URL to a cool light-mode banner image]">
-  <img align="center" alt="Cool banner image" src="[Optional: URL to a default cool banner image]">
-</picture>
-<br/>
-
 I'm a passionate developer journeying through the exciting worlds of **Android**, **Web**, and **Game Development**! 🚀
 
 🌱 Currently, my biggest adventure is leveling up my **Game Development** skills 🎮 and bringing imaginative ideas to life. I'm also sharpening my eye for **Pixel Art** 🎨 to add that extra visual flair!
