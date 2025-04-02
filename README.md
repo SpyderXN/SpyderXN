@@ -46,7 +46,7 @@ I've built a variety of Android apps, websites, and games along my coding journe
 
 I'm always open to connecting with fellow developers and creators!
 
-* <a href="/kongX404" target="https://x.com"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a> LinkedIn
+* <a href="[https://x.com/kongX404]" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a> LinkedIn
 * <a href="[Your X Profile URL]" target="https://www.linkedin.com/in/abhirup-chakraborty-7587131a2/"><img src="https://skillicons.dev/icons?i=twitter" alt="X (Twitter)"/></a> X (Twitter)
 * 📧 Gmail: `oprime041@gmail.com`
 
