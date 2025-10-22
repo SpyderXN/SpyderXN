@@ -1,7 +1,5 @@
 # 👋 Hey there! I'm Abhirup Chakraborty (SpyderX) ✨
 
-Profiles viewed:
-
 I'm a passionate developer journeying through the exciting worlds of **Android**, **Web**, and **Game Development**! 🚀
 
 🌱 Currently, my biggest adventure is leveling up my **Game Development** skills 🎮 and bringing imaginative ideas to life. I'm also sharpening my eye for **Pixel Art** 🎨 to add that extra visual flair!
