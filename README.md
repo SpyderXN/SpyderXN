@@ -1,5 +1,7 @@
 # 👋 Hey there! I'm Abhirup Chakraborty (SpyderX) ✨
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=spyderxn&label=Profile%20views&color=0e75b6&style=flat" alt="spyderxn" /> </p>
+
 I'm a passionate developer journeying through the exciting worlds of **Android**, **Web**, and **Game Development**! 🚀
 
 🌱 Currently, my biggest adventure is leveling up my **Game Development** skills 🎮 and bringing imaginative ideas to life. I'm also sharpening my eye for **Pixel Art** 🎨 to add that extra visual flair!
@@ -46,5 +48,7 @@ I'm always open to connecting with fellow developers and creators!
 * 🕹️ Itch.io: `https://spyder-x-games.itch.io/`
 
 ---
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spyderxn&" alt="spyderxn" /></p>
 
 Thanks for stopping by! 😄
