@@ -1,6 +1,4 @@
-#  Hey there! I'm Abhirup Chakraborty (SpyderX) ✨
-
-
+#  Hey there! I'm Abhirup Chakraborty (SpyderX) 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spyderxn&label=Profile%20views&color=0e75b6&style=flat" alt="spyderxn" /> </p>
 
@@ -53,4 +51,4 @@ I'm always open to connecting with fellow developers and creators!
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=spyderxn&" alt="spyderxn" /></p>
 
-Thanks for stopping by! 😄
+Thanks for stopping by! 
