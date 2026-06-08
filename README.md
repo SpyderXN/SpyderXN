@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=spyderxn&label=Profile%20views&color=0e75b6&style=flat" alt="spyderxn" /> </p>
 
 
-I'm a passionate developer journeying through the exciting worlds of **Android**, **Web**, and **Game Development**! 🚀
+I'm a passionate developer journeying through the exciting worlds of **Android**, and **Game Development**! 🚀
 
 🌱 Currently, my biggest adventure is leveling up my **Game Development** skills 🎮 and bringing imaginative ideas to life. I'm also sharpening my eye for **Pixel Art** 🎨 to add that extra visual flair!
 
